@@ -1,0 +1,8 @@
+const acID = 778899
+let accountName = "Abdullah"
+let accountEmail = "hackbyabd@gmail.com"
+
+var accountPass = "123456"
+accountCity = "Lahore"
+
+console.table([acID, accountName, accountEmail, accountPass, accountCity])
